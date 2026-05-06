@@ -1,7 +1,7 @@
 # Parallels Desktop Mac
 
 <p align="center">
-  <img src="https://e7.pngegg.com/pngimages/988/363/png-clipart-parallels-desktop-9-for-mac-management-user-others-text-trademark.png" width="200" alt="Parallels Desktop icon"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/0/03/Parallelsdesktop.png" width="200" alt="Parallels Desktop icon"/>
 </p>
 
 <p align="center">
